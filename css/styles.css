@@ -1,0 +1,38 @@
+body{
+  background-color: #7EBFF1
+}
+
+
+
+.face{
+  width: 530px;
+  height: 530px;
+  background-color: #fff;
+  margin: auto;
+  margin-top: 30px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  z-index: 1;
+}
+
+
+.eyes{
+  height: 200px;
+  width: 200px;
+  background-color: fff;
+  margin: 20px;
+  margin-top: 18vh;
+  border-radius: 50%;
+  box-shadow: 0px 2px 5px black;
+  display: flex;
+  justify-content: center;
+}
+
+.pupil{
+  height: 60px;
+  width: 60px;
+  background-color: #000;
+  margin-top: 12vh;
+  border-radius: 50%;
+}
